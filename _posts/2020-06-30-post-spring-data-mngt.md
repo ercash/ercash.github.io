@@ -9,10 +9,10 @@ tags:
   - jdbc
   - transaction
 toc: true
+toc_label: "Topic: Spring Data Management"
 ---
 
-# Spring Data Management: 
-JDBC (4%), Transactions (8%)
+Spring Data Management: JDBC (4%), Transactions (8%)
 
 ## Whats is the difference between checked and unchecked exceptions?
 

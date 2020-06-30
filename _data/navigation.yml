@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Билдирүүлөр"
     url: /posts/
-  - title: "Categories"
+  - title: "Катерогиялар"
     url: /categories/
-  - title: "Tags"
+  - title: "Тэгтер"
     url: /tags/
-  - title: "About"
+  - title: "Блог жөнүндө"
     url: /about/

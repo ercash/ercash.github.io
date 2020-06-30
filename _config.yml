@@ -60,24 +60,27 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Erkin Karymshak"
+  name   : "Эркин Карымшак уулу"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   location: "Бремен, Германия"
   email  : "ercash@gmail.com"
   links:
-    - label: "Website"
+    - label: "Web-сайты"
       icon: "fas fa-fw fa-link"
       url: "https://ercash.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/erkin.karymshakuulu"
+    - label: #"Twitter"
+      icon: #"fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ercash"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: #"Instagram"
+      icon: #"fab fa-fw fa-instagram"
+      url: #"https://instagram.com/"
 
 footer:
   links:

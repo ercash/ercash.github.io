@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "Катерогиялар"
     url: /categories/
-  - title: "Тэгтер"
+  - title: "Тэгдер"
     url: /tags/
   - title: "Блог жөнүндө"
     url: /about/

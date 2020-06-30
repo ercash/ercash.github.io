@@ -116,7 +116,7 @@ defaults:
   # _docs
   - scope:
       path: ""
-      type: spring
+      type: docs
     values:
       layout: single
       read_time: false
@@ -124,7 +124,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "spring"
+        nav: "docs"
 
 category_archive:
   type: liquid

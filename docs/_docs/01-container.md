@@ -1,6 +1,6 @@
 ---
 title: "Container, Dependency, and IOC"
-permalink: /spring/container/
+permalink: /docs/container/
 excerpt: "Bla bla"
 last_modified_at: 2020-06-30
 redirect_from:

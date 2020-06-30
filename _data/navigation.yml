@@ -1,6 +1,6 @@
 main:
   - title: "Spring Cert"
-    url: /spring/container/
+    url: /docs/container/
   - title: "Билдирүүлөр"
     url: /posts/
   - title: "Катерогиялар"
@@ -10,10 +10,10 @@ main:
   - title: "Блог жөнүндө"
     url: /about/
 
-spring:
+docs:
   - title: "Exam Topics"
     children:
       - title: "Container"
-        url: /spring/container/
+        url: /docs/container/
       - title: "AOP"
-        url: /spring/aop/
+        url: /docs/aop/

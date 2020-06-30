@@ -61,6 +61,8 @@ author:
   name   : "Erkin Karymshak"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
+  location: "Бремен, Германия"
+  email  : "ercash@gmail.com"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

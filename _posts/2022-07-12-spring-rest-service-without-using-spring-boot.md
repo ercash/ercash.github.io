@@ -1,11 +1,10 @@
 ---
-published: true
-date: 2022-07-12T16:29:00.000Z
+title: "Spring REST Service сервисти Spring Boot колдонбостон ишке ашыруу"
+date: 2022-07-12T16:29:00-00:00
 categories:
   - spring
 tags:
   - spring-rest
-title: Spring REST Service сервисти Spring Boot колдонбостон ишке ашыруу
 ---
 ## Spring REST Service сервисти Spring Boot колдонбостон ишке ашыруу 
 

@@ -1,6 +1,6 @@
 ---
-published: false
-date: 2022-07-12T16:29:00.000Z
+published: true
+date: {}
 categories:
   - spring
 tags:
@@ -25,4 +25,3 @@ MVC орнотуу Spring фреймворктун версиясына жара
 Эске алуучу нерсе бул Spring Bootтагы @RestController стереотип аннотациясы ичине бул эки аннотацияны @ResponseBody жана @Controller камтыйт. Башкача айтканда Controller view эмес ResponceBody кайтарат. 
 
 Бул жерде жакшы мисал келтирилген: [Spring MVC 4.0 RESTful Web Services Simple Example](https://www.programming-free.com/2014/01/spring-mvc-40-restful-web-services.html)
-

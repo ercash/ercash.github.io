@@ -1,6 +1,6 @@
 ---
 title: "Spring REST Service сервисти Spring Boot колдонбостон ишке ашыруу"
-date: 2022-07-12T16:29:00-00:00
+date: 2022-07-12T12:29:00-00:00
 categories:
   - spring
 tags:

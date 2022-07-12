@@ -2,9 +2,9 @@
 title: "Spring REST Service сервисти Spring Boot колдонбостон ишке ашыруу"
 date: 2022-07-12T12:29:00-00:00
 categories:
-  - spring
+  - spring_framework
 tags:
-  - spring-rest
+  - spring_rest
 ---
 
 ## Spring REST Service сервисти Spring Boot колдонбостон ишке ашыруу 

@@ -1,12 +1,13 @@
 ---
 published: true
-date: {}
+date: 2022-07-12T16:29:00.000Z
 categories:
   - spring
 tags:
   - spring-rest
+title: Spring REST Service сервисти Spring Boot колдонбостон ишке ашыруу
 ---
-## Spring REST Service without using Spring Boot
+## Spring REST Service сервисти Spring Boot колдонбостон ишке ашыруу 
 
 **Кырдаал**:
 Spring Boot менен түзүлгөн REST-сервис, ичине Tomcat Embedded серверди камтыган өз алдынча чуркоочу jar-пакет болуп түзүлөт. 

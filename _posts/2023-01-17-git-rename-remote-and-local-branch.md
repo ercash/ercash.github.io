@@ -17,4 +17,4 @@ tags:
 2. Жаны түзүлгөн бранчты жүктөө (push)
 3. Эски бранчты өчүрүп салуу.
 
-Quelle: [How to rename and change a Git branch name locally & remotely](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/rename-Git-branch-local-remote-GitHub-GitLab-BitBucket)
+Алынган жер: [How to rename and change a Git branch name locally & remotely](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/rename-Git-branch-local-remote-GitHub-GitLab-BitBucket)

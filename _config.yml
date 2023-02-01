@@ -58,6 +58,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-multiple-languages-plugin
 
 author:
   name   : "Эркин Карымшак"
@@ -138,3 +139,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+languages: ["kg", "ru", "de", "en"]
+
+exclude_from_localizations: ["javascript", "images", "css"]
+
+
